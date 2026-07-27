@@ -5,9 +5,10 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: "FJY's Blog",
   author: {
-    name: 'fjy33',
+    name: 'fjy',
+    avatar: '/主页图片/头像.bmp',
   },
-  description: 'fjy33 的个人博客',
+  description: 'fjy 的个人博客',
   social: [
     {
       name: 'RSS',
