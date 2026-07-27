@@ -11,7 +11,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: "fjy33 的小站",
+      title: 'fjy的小站',
     },
 
     footer: {
