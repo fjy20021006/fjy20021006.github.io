@@ -3,12 +3,20 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://fjy20021006.github.io/',
   lang: 'zh-CN',
-  title: "FJY's Blog",
+  title: 'fjy\'s Blog',
+
   author: {
     name: 'fjy',
     avatar: '/主页图片/头像.bmp',
+
+    status: {
+      emoji: '',
+      message: '',
+    },
   },
-  description: 'fjy 的个人博客',
+
+  description: '',
+
   social: [
     {
       name: 'RSS',
@@ -25,10 +33,22 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
+    enable: true,
   },
 
   sponsor: {
     enable: false,
+  },
+
+  mode: 'dark',
+
+  comment: {
+    enable: true,
+  },
+
+  subtitle: 'enjoy life',
+
+  excerpt: {
+    auto: false,
   },
 })
