@@ -101,6 +101,13 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
+    '/posts/多格式文件转md方案': RouteRecordInfo<
+      '/posts/多格式文件转md方案',
+      '/posts/%E5%A4%9A%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6%E8%BD%ACmd%E6%96%B9%E6%A1%88',
+      Record<never, never>,
+      Record<never, never>,
+      | never
+    >,
     '/posts/my-first-post': RouteRecordInfo<
       '/posts/my-first-post',
       '/posts/my-first-post',
@@ -203,6 +210,14 @@ declare module 'vue-router/auto-routes' {
     'node_modules/valaxy-theme-yun/pages/posts/index.vue': {
       routes:
         | '/posts/'
+      views:
+        | never
+      pathParamNames:
+        | never
+    }
+    'pages/posts/多格式文件转md方案.md': {
+      routes:
+        | '/posts/多格式文件转md方案'
       views:
         | never
       pathParamNames:
