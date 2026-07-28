@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>fjy's Blog</title>
+        <link>https://fjy20021006.github.io/</link>
+        <description></description>
+        <lastBuildDate>Tue, 28 Jul 2026 01:42:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>fjy's Blog</title>
+            <url>https://fjy20021006.github.io/主页图片/头像.bmp</url>
+            <link>https://fjy20021006.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © fjy</copyright>
+        <atom:link href="https://fjy20021006.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[我的第一篇文章]]></title>
+            <link>https://fjy20021006.github.io/posts/my-first-post</link>
+            <guid isPermaLink="false">https://fjy20021006.github.io/posts/my-first-post</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>这是我的第一篇博客文章！</p>
+<p>Valaxy 是一个快速、简洁的静态博客框架，支持 Markdown 写作。</p>
+<h2>开始使用</h2>
+<p>在这里我可以记录技术笔记、分享生活感悟。</p>
+<br/><p>访问 <a href="https://fjy20021006.github.io/posts/my-first-post" target="_blank">https://fjy20021006.github.io/posts/my-first-post</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (fjy)</author>
+        </item>
+        <item>
+            <title><![CDATA[多格式文件处理方案设计]]></title>
+            <link>https://fjy20021006.github.io/posts/多格式文件转md方案</link>
+            <guid isPermaLink="false">https://fjy20021006.github.io/posts/多格式文件转md方案</guid>
+            <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://fjy20021006.github.io/%E5%A4%9A%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6%E8%BD%ACmd%E6%96%B9%E6%A1%88/%E6%B5%81%E7%A8%8B%E5%9B%BE.png" alt="流程图"></p>
+<h2>一、总体设计流程</h2>
+<p>系统采用 <strong>Master-Worker 拓扑结构</strong>，基于 Docker Compose 实现容器化一键部署。</p>
+<br/><p>访问 <a href="https://fjy20021006.github.io/posts/多格式文件转md方案" target="_blank">https://fjy20021006.github.io/posts/多格式文件转md方案</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (fjy)</author>
+        </item>
+    </channel>
+</rss>

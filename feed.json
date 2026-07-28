@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fjy's Blog",
+    "home_page_url": "https://fjy20021006.github.io/",
+    "feed_url": "https://fjy20021006.github.io/feed.json",
+    "icon": "https://fjy20021006.github.io/主页图片/头像.bmp",
+    "author": {
+        "name": "fjy",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://fjy20021006.github.io/posts/my-first-post",
+            "content_html": "<p>这是我的第一篇博客文章！</p>\n<p>Valaxy 是一个快速、简洁的静态博客框架，支持 Markdown 写作。</p>\n<h2>开始使用</h2>\n<p>在这里我可以记录技术笔记、分享生活感悟。</p>\n<br/><p>访问 <a href=\"https://fjy20021006.github.io/posts/my-first-post\" target=\"_blank\">https://fjy20021006.github.io/posts/my-first-post</a> 阅读全文。</p>",
+            "url": "https://fjy20021006.github.io/posts/my-first-post",
+            "title": "我的第一篇文章",
+            "date_modified": "2026-07-27T00:00:00.000Z",
+            "date_published": "2026-07-27T00:00:00.000Z",
+            "author": {
+                "name": "fjy",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fjy20021006.github.io/posts/多格式文件转md方案",
+            "content_html": "<p><img src=\"https://fjy20021006.github.io/%E5%A4%9A%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6%E8%BD%ACmd%E6%96%B9%E6%A1%88/%E6%B5%81%E7%A8%8B%E5%9B%BE.png\" alt=\"流程图\"></p>\n<h2>一、总体设计流程</h2>\n<p>系统采用 <strong>Master-Worker 拓扑结构</strong>，基于 Docker Compose 实现容器化一键部署。</p>\n<br/><p>访问 <a href=\"https://fjy20021006.github.io/posts/多格式文件转md方案\" target=\"_blank\">https://fjy20021006.github.io/posts/多格式文件转md方案</a> 阅读全文。</p>",
+            "url": "https://fjy20021006.github.io/posts/多格式文件转md方案",
+            "title": "多格式文件处理方案设计",
+            "date_modified": "2026-07-27T00:00:00.000Z",
+            "date_published": "2026-07-27T00:00:00.000Z",
+            "author": {
+                "name": "fjy",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
